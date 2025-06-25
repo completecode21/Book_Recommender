@@ -10,3 +10,6 @@ venv/
 
 # Secrets
 .env
+
+#dev container
+.devcontainer/
