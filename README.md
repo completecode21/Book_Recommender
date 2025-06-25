@@ -64,7 +64,8 @@ To enhance the reading experience by recommending relevant books based on:
 
 > *(Replace the URL below with your actual screenshot if needed)*
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/![book recommendation img](https://github.com/user-attachments/assets/68dabdd4-74cd-42b3-a060-20b11efe5c25)
+.png)
 
 
 
