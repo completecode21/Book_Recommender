@@ -1,0 +1,12 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Secrets
+.env
